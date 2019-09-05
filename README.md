@@ -1,6 +1,6 @@
 # License-Plate-Detection with Deep Learning
 
-This project purpose is to detect license plate of vehicle from mutiple video sources by using deep learning models. Since YOLOv3 has a better performance on object detection, this model I built is based on this network structure. The whole code contains three parts:
+Project purpose is to detect license plate of vehicle from mutiple video sources by using deep learning models. Since YOLOv3 has a better performance on object detection, this model I built is based on this network structure. The whole code contains three parts:
 
 1. Obtain an orginial video and break it to frames with specific fps
 
